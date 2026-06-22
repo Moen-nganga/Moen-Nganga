@@ -19,7 +19,7 @@
 
 ## // about me
 
-```js
+~~~js
 const moen = {
   name:       "Moen Nganga",
   location:   "Nairobi, Kenya",
@@ -30,7 +30,7 @@ const moen = {
   reddit:     "u/skinnyfia44",
   telegram:   "@moen41",
 };
-` `` `
+~~~
 
 ---
 
@@ -85,11 +85,9 @@ const moen = {
 
 <div align="center">
 
-![Moen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Moen-nganga&show_icons=true&theme=github_dark&hide_border=true&title_color=ffff00&icon_color=00ff41&text_color=c9d1d9&bg_color=0d1117)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moen-nganga&layout=compact&theme=github_dark&hide_border=true&title_color=ffff00&text_color=c9d1d9&bg_color=0d1117)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Moen-nganga&theme=github-dark-blue&hide_border=true&ring=ffff00&fire=ffff00&currStreakLabel=ffff00)
 
 </div>
 
