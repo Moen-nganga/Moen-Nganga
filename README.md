@@ -2,15 +2,12 @@
 
 <div align="center">
 
-# JavaScript is my best friend 💛
+# Just a Guy Who Loves Coding🖤
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-moen--portfolio.vercel.app-1a1a2e?style=flat&logo=vercel&logoColor=yellow)](https://moen-portfolio.vercel.app)
 [![Email](https://img.shields.io/badge/Email-Gmail-1a1a2e?style=flat&logo=gmail&logoColor=red)](mailto:moen@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-@moen41-1a1a2e?style=flat&logo=telegram&logoColor=26A5E4)](https://t.me/moen41)
 [![GitHub](https://img.shields.io/badge/GitHub-Moen--nganga-1a1a2e?style=flat&logo=github&logoColor=white)](https://github.com/Moen-nganga)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Moen-nganga&color=yellow&style=flat&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/Moen-nganga?style=flat&color=yellow&label=FOLLOWERS)
 
 </div>
 
@@ -24,8 +21,8 @@
 
 ```js
 const moen = {
-  name:       "Moen",
-  location:   "Nairobi, Kenya 🇰🇪",
+  name:       "Moen Nganga",
+  location:   "Nairobi, Kenya",
   role:       "Full-Stack Developer & Automation Engineer",
   currently:  "Building MarketplaceKE — a P2P classifieds marketplace for Kenya",
   interests:  ["web dev", "browser automation", "afrobeat production"],
@@ -55,11 +52,12 @@ const moen = {
 
 | Skill | Years | Highlights |
 |---|---|---|
-| **Node.js** | 1y | Full-stack apps, REST APIs, real-time WebSockets, auth flows |
+| **Node.js** | 2y | Full-stack apps, REST APIs, real-time WebSockets, auth flows |
 | **React** | 2y | SPA architecture, Vite toolchain, Tailwind UI, portfolio sites |
 | **PostgreSQL** | 2y | Schema design, migrations, encrypted data pipelines |
 | **Browser Automation** | 2y | Puppeteer + CDP detach, Playwright, anti-detect browser integration, Selenium |
 | **Python** | 1y | Beautiful Soup, Scikit-learn, scripting |
+| **TypeScript** | 2y | Webpack, Prettier, Babel
 
 ---
 
@@ -76,10 +74,10 @@ const moen = {
 - Stealth browsing via Chrome DevTools Protocol
 - Profile-based session management
 
-### 🌐 [Portfolio](https://moen-portfolio.vercel.app)
-> Personal developer portfolio built with React (Vite) + Tailwind CSS.
-- Live GitHub repo pulls via API
-- Services showcase: automation, web creation, app modernization
+### 🤖 [Chatbot Extension](https://github.com/Moen-nganga/chatbot-extension)
+> A browser extension that injects an AI chatbot into any webpage.
+- Built with vanilla JS + Chrome Extension APIs
+- Persistent chat UI across page navigations
 
 ---
 
