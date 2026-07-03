@@ -25,7 +25,7 @@ const moen = {
   location:   "Nairobi, Kenya",
   role:       "Full-Stack Developer & Automation Engineer",
   currently:  "Building MarketplaceKE — a P2P classifieds marketplace for Kenya",
-  interests:  ["Automation Engineering, "App Development", "Cloud engineering"],
+  interests:  ["Automation Engineering, "App Development", "Cloud Engineering"],
   gmail:      "moenmburu41@gmail.com",
   reddit:     "u/skinnyfia44",
   telegram:   "@moen41",
