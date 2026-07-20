@@ -85,8 +85,7 @@ const moen = {
 
 <div align="center">
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moen-nganga&layout=compact&theme=github_dark&hide_border=true&title_color=ffff00&text_color=c9d1d9&bg_color=0d1117)
+![Top Langs](https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=Moen-nganga&layout=compact&theme=github_dark&hide_border=true)
 
 
 </div>
