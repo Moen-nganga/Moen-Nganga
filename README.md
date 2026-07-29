@@ -1,5 +1,3 @@
-
-
 <div align="center">
 
 # Just a Guy Who Loves Coding🖤
@@ -25,7 +23,7 @@ const moen = {
   location:   "Nairobi, Kenya",
   role:       "Full-Stack Developer & Automation Engineer",
   currently:  "Building MarketplaceKE — a P2P classifieds marketplace for Kenya",
-  interests:  ["Automation Engineering, "App Development", "Cloud Engineering"],
+  interests:  ["Automation Engineering", "App Development", "Cloud Engineering"],
   gmail:      "moenmburu41@gmail.com",
   reddit:     "u/skinnyfia44",
   telegram:   "@moen41",
@@ -39,12 +37,12 @@ const moen = {
 | | |
 |---|---|
 | **Languages** | ![JavaScript](https://img.shields.io/badge/-JavaScript-0d1117?style=flat&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-0d1117?style=flat&logo=typescript) ![Python](https://img.shields.io/badge/-Python-0d1117?style=flat&logo=python) 
-| **Frontend** | ![React](https://img.shields.io/badge/-React-0d1117?style=flat&logo=react) ![Vite](https://img.shields.io/badge/-Vite-0d1117?style=flat&logo=vite) ![TailwindCSS](https://img.shields.io/badge/-Tailwind-0d1117?style=flat&logo=tailwindcss) ![HTML5](https://img.shields.io/badge/-HTML5-0d1117?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-0d1117?style=flat&logo=css3&logoColor=1572B6) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-0d1117?style=flat&logo=node.js) ![Express](https://img.shields.io/badge/-Express-0d1117?style=flat&logo=express) |
-| **Database** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0d1117?style=flat&logo=postgresql) ![Redis](https://img.shields.io/badge/-Redis-0d1117?style=flat&logo=redis) ![SQL](https://img.shields.io/badge/-SQL-0d1117?style=flat&logo=postgresql&logoColor=336791) |
-| **Automation** | ![Playwright](https://img.shields.io/badge/-Playwright-0d1117?style=flat&logo=playwright) ![Puppeteer](https://img.shields.io/badge/-Puppeteer-0d1117?style=flat&logo=puppeteer&logoColor=40B5A4) ![Chrome CDP](https://img.shields.io/badge/-Chrome_CDP-0d1117?style=flat&logo=googlechrome) |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-0d1117?style=flat&logo=react) ![TailwindCSS](https://img.shields.io/badge/-Tailwind-0d1117?style=flat&logo=tailwindcss) ![HTML5](https://img.shields.io/badge/-HTML5-0d1117?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-0d1117?style=flat&logo=css3&logoColor=1572B6) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-0d1117?style=flat&logo=node.js) ![Django](https://img.shields.io/badge/-Django-0d1117?style=flat&logo=django) |
+| **Database** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0d1117?style=flat&logo=postgresql) ![Oracle](https://img.shields.io/badge/-Oracle-0d1117?style=flat&logo=oracle) ![SQL](https://img.shields.io/badge/-SQL-0d1117?style=flat&logo=postgresql&logoColor=336791) |
+| **Automation** | ![Playwright](https://img.shields.io/badge/-Playwright-0d1117?style=flat&logo=playwright) ![Puppeteer](https://img.shields.io/badge/-Puppeteer-0d1117?style=flat&logo=puppeteer&logoColor=40B5A4) ![n8n](https://img.shields.io/badge/-n8n-0d1117?style=flat&logo=n8n) ![Selenium](https://img.shields.io/badge/-Selenium-0d1117?style=flat&logo=selenium) |
 | **DevOps / Tools** | ![Keep](https://img.shields.io/badge/-Keep-0d1117?style=flat) ![HyperDX](https://img.shields.io/badge/-HyperDX-0d1117?style=flat) ![OpenStatus](https://img.shields.io/badge/-OpenStatus-0d1117?style=flat) |
-| **Cloud / Storage** | ![Cloudinary](https://img.shields.io/badge/-Cloudinary-0d1117?style=flat&logo=cloudinary) ![Supabase](https://img.shields.io/badge/-Supabase-0d1117?style=flat&logo=supabase) |
+| **Cloud / Storage** | ![AWS](https://img.shields.io/badge/-AWS-0d1117?style=flat&logo=amazonaws) ![Cloudflare](https://img.shields.io/badge/-Cloudflare-0d1117?style=flat&logo=cloudflare) |
 
 ---
 
@@ -55,7 +53,7 @@ const moen = {
 | **Node.js** | 3y | Full-stack apps, REST APIs, real-time WebSockets, auth flows |
 | **React** | 3y | SPA architecture, Vite toolchain, Tailwind UI, portfolio sites |
 | **PostgreSQL** | 3y | Schema design, migrations, encrypted data pipelines |
-| **Browser Automation** | 3y | Puppeteer + CDP detach, Playwright, anti-detect browser integration, Selenium |
+| **Browser Automation** | 3y | Puppeteer + CDP detach, Playwright, anti-detect browser integration, Selenium, creating n8n workflows |
 | **Python** | 3y | Beautiful Soup, Scikit-learn, scripting |
 | **TypeScript** | 2y | Webpack, Prettier, Babel
 
@@ -87,7 +85,6 @@ const moen = {
 
 ![Top Langs](https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=Moen-nganga&layout=compact&theme=github_dark&hide_border=true)
 
-
 </div>
 
 ---
@@ -95,7 +92,3 @@ const moen = {
 <div align="center">
   <sub>Built with 💛 in Nairobi</sub>
 </div>
-```
-
----
-
