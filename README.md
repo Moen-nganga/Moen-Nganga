@@ -15,7 +15,7 @@
 
 ---
 
-## // about me
+## ABOUT ME
 
 ~~~js
 const moen = {
@@ -32,7 +32,7 @@ const moen = {
 
 ---
 
-## // tech stack
+## TECH STACK
 
 | | |
 |---|---|
@@ -46,7 +46,7 @@ const moen = {
 
 ---
 
-## // signature skills
+## SIGNATURE SKILLS
 
 | Skill | Years | Highlights |
 |---|---|---|
@@ -59,7 +59,7 @@ const moen = {
 
 ---
 
-## // featured projects
+## FEATURED PROJECTS
 
 ### [MarketplaceKE](https://github.com/Moen-nganga)
 > A peer-to-peer classifieds marketplace built for Kenya.
@@ -82,7 +82,7 @@ const moen = {
 
 ---
 
-## // github stats
+## GITHUB STATS
 
 <div align="center">
 
@@ -93,5 +93,5 @@ const moen = {
 ---
 
 <div align="center">
-  <sub>Available for work</sub>
+  <sub>AVAILABLE FOR WORK</sub>
 </div>
