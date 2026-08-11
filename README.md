@@ -1,6 +1,6 @@
 <div align="center">
 
-# Just a Guy Who Loves Coding🖤
+# Full Stack Developer from Nairobi
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-moen--portfolio.vercel.app-1a1a2e?style=flat&logo=vercel&logoColor=yellow)](https://moen-portfolio.vercel.app)
 [![Email](https://img.shields.io/badge/Email-Gmail-1a1a2e?style=flat&logo=gmail&logoColor=red)](https://mail.google.com/mail/?view=cm&fs=1&to=moenmburu41@gmail.com)
@@ -21,9 +21,9 @@
 const moen = {
   name:       "Moen Nganga",
   location:   "Nairobi, Kenya",
-  role:       "Full-Stack Developer & Automation Engineer",
-  currently:  "Building MarketplaceKE — a P2P classifieds marketplace for Kenya",
-  interests:  ["Automation Engineering", "App Development", "Cloud Engineering"],
+  role:       "Full Stack Developer & Automation Engineer",
+  currently:  "Building livePDF, a browser-based PDF creation and editing tool",
+  interests:  ["Automation Engineering", "App Development", "Data Analyst"],
   gmail:      "moenmburu41@gmail.com",
   reddit:     "u/skinnyfia44",
   telegram:   "@moen41",
@@ -61,21 +61,24 @@ const moen = {
 
 ## // featured projects
 
-### 🛒 [MarketplaceKE](https://github.com/Moen-nganga)
+### [MarketplaceKE](https://github.com/Moen-nganga)
 > A peer-to-peer classifieds marketplace built for Kenya.
 - Google OAuth & AES-256-GCM encrypted chat
 - Cloudinary image hosting, promoted listings, dark mode
 - PostgreSQL backend, real-time notifications, dashboard sidebar
 
-### 🤖 [Reddit Scraper](https://github.com/Moen-nganga/Reddit-Scraper)
-> Browser automation bot using Puppeteer + Chrome CDP detach approach.
+### [livePDF](https://github.com/Moen-nganga/livePDF)
+> A browser-based PDF creation and editing tool.
+- Runs completely on your browser
+- Features an offline view mode for PDFs
+- Contains an auto save feature where your work is saved after immediate edits
+
+### [Reddit Scraper](https://github.com/Moen-nganga/Reddit-Scraper)
+> Browser automation bot using playwright + Chrome CDP detach approach.
 - Stealth browsing via Chrome DevTools Protocol
 - Profile-based session management
 
-### 🤖 [Chatbot Extension](https://github.com/Moen-nganga/chatbot-extension)
-> A browser extension that injects an AI chatbot into any webpage.
-- Built with vanilla JS + Chrome Extension APIs
-- Persistent chat UI across page navigations
+
 
 ---
 
@@ -90,5 +93,5 @@ const moen = {
 ---
 
 <div align="center">
-  <sub>Built with 💛 in Nairobi</sub>
+  <sub>Available for work</sub>
 </div>
