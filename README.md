@@ -9,9 +9,6 @@
 
 </div>
 
----
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Moen-nganga&bg_color=0d1117&color=00ff41&line=00ff41&point=ffff00&area=true&hide_border=true" width="100%" />
 
 ---
 
